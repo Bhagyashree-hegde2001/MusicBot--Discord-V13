@@ -1,4 +1,4 @@
 {
   "token": "Paste_Your_Bot_Token_Here",
-  "prefix": "."
+  "prefix": "^"
 }
